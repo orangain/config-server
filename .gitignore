@@ -19,3 +19,7 @@ doc/
 
 # Vagrant
 .vagrant/
+
+# Chef
+/cookbooks/
+/.chef/
